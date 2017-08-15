@@ -1,0 +1,132 @@
+{"frames": {
+
+"diamond.png":
+{
+	"frame": {"x":268,"y":46,"w":268,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":118},
+	"sourceSize": {"w":268,"h":118}
+},
+"diamond_broken.png":
+{
+	"frame": {"x":282,"y":164,"w":278,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":138},
+	"sourceSize": {"w":278,"h":138}
+},
+"diamond_word.png":
+{
+	"frame": {"x":540,"y":0,"w":192,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":46},
+	"sourceSize": {"w":192,"h":46}
+},
+"ruby.png":
+{
+	"frame": {"x":536,"y":46,"w":268,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":118},
+	"sourceSize": {"w":268,"h":118}
+},
+"ruby_broken.png":
+{
+	"frame": {"x":560,"y":164,"w":278,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":138},
+	"sourceSize": {"w":278,"h":138}
+},
+"ruby_word.png":
+{
+	"frame": {"x":0,"y":0,"w":112,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":46},
+	"sourceSize": {"w":112,"h":46}
+},
+"steel.png":
+{
+	"frame": {"x":350,"y":302,"w":330,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":148},
+	"sourceSize": {"w":330,"h":148}
+},
+"steel_broken.png":
+{
+	"frame": {"x":0,"y":450,"w":330,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":156},
+	"sourceSize": {"w":330,"h":156}
+},
+"steel_word.png":
+{
+	"frame": {"x":244,"y":0,"w":144,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":46},
+	"sourceSize": {"w":144,"h":46}
+},
+"stone_broken.png":
+{
+	"frame": {"x":0,"y":302,"w":350,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":350,"h":132},
+	"sourceSize": {"w":350,"h":132}
+},
+"stone.png":
+{
+	"frame": {"x":0,"y":46,"w":268,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":118},
+	"sourceSize": {"w":268,"h":118}
+},
+"stone_word.png":
+{
+	"frame": {"x":388,"y":0,"w":152,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":46},
+	"sourceSize": {"w":152,"h":46}
+},
+"wood.png":
+{
+	"frame": {"x":0,"y":164,"w":282,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":282,"h":118},
+	"sourceSize": {"w":282,"h":118}
+},
+"wood_broken.png":
+{
+	"frame": {"x":330,"y":450,"w":510,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":510,"h":148},
+	"sourceSize": {"w":510,"h":148}
+},
+"wood_word.png":
+{
+	"frame": {"x":112,"y":0,"w":132,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":46},
+	"sourceSize": {"w":132,"h":46}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "materials.png",
+	"format": "RGBA8888",
+	"size": {"w":840,"h":606},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e199b7ebbc9777149f86e747038e7096:49e12930668c2e9df09313b1b1baf3e3:98fe413c60ee3f7fe86c40e93b24644b$"
+}
+}
